@@ -7,6 +7,7 @@ namespace INAV_SIM_OSD
         private readonly Dictionary<string, string> PROCESS_NAMES = new Dictionary<string, string>()
             {
                 {"RealFlight64", "RealFlight" },
+                {"Realflight", "RealFlight" },
                 {"X-Plane", "X-Plane" }
             };
 
