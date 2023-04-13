@@ -165,7 +165,7 @@ namespace INAV_SIM_OSD
 
                 ms.Seek(0, SeekOrigin.Begin);
                 ms.Flush();
-                images[i] = graphics.CreateImage(ms.GetBuffer(), PixelFormat.Format32bppPRGBA);
+                images[i] = graphics.CreateImage(ms.GetBuffer(), PixelFormat.Format32bppPRGBA);                
             }
             return images;
         }
