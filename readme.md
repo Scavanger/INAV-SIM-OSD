@@ -4,7 +4,7 @@ PC OSD for INAV SITL/HITL
 
 ![INAV-Sim-OSD](img/INAV-SIM-OSD.png)
 
-You may need to install the .NET Desktop Runtime 6 (latest version): https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+You may need to install the .NET Desktop Runtime 7 (latest version): https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 
 ## SITL
 Configure a MSP-Displayport on any UART and connect via TCP to localhost (127.0.0.1) and the corresponding TCP port.
